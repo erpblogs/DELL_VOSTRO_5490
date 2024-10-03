@@ -25,7 +25,7 @@ EFI for Dell Vostro 5490 with OpenCore bootloader
 | macOS            | Sequoia 15.0                       |
 
 
-![infomac](./Screenshot/infomac.png)
+![infomac](./Screenshot/info_Sequoia.png)
 
 ### What works and What doesn't or WIP:
 
