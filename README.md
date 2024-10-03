@@ -11,17 +11,17 @@ EFI for Dell Vostro 5490 with OpenCore bootloader
 
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
-| CPU              | Intel i7 10510U (4C-8T 8MB CML-U)  |
+| CPU              | Intel i5 10510U (4C-8T 6MB CML-U)  |
 | iGPU             | Intel® UHD Graphics                |
 | DGPU.            | Nvidia MX250 2GB GDDR5             |
 | Lan              | Realtek 8168                       |
 | Audio            | Realtek ALC236                     |
 | Ram              | 16 GB DDR4 2667 Mhz                |
-| Wifi + Bluetooth | BCM94352Z (DW1560)                 |
-| NVMe             | Koxia KBG40ZNS512G 512 GB (MACOS)  |
+| Wifi + Bluetooth | BCM94360ng (OCLP patching)         |
+| NVMe             | Samsung 970 evo pluss GB (MACOS)   |
 | SSD SATA         | Silicon Power A55 256 GB (WIN 11)  |
 | SmBios           | MacBookPro 16,3                    |
-| BootLoader       | OpenCore 0.8.3                     |
+| BootLoader       | OpenCore 1.0.1                     |
 | macOS            | Ventura 13 Beta 6                  |
 
 
@@ -48,7 +48,7 @@ EFI for Dell Vostro 5490 with OpenCore bootloader
 - [x] F6 & F7 Brightness Key
 - [x] F10 Print Screen Key
 - [x] F1 & F2 & F3 Sound Key
-- [x] Wi-Fi and Bluetooth BCM94352Z (DW1560) Module
+- [x] Wi-Fi and Bluetooth BCM94360ng Module (OCLP patching)
 - [x] Realtek RTL8168 LAN
 - [x] SSD NVME Slot-1 PciE Gen3x4
 - [x] Sata Slot AHCI
